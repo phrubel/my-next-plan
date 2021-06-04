@@ -98,7 +98,7 @@ const styles = StyleSheet.create({
   },
   textInput: {
     alignSelf: "stretch",
-    color: "",
+    color: "white",
     padding: 20,
     backgroundColor: "black",
     borderTopWidth: 2,
@@ -119,8 +119,8 @@ const styles = StyleSheet.create({
     elevation: 8,
   },
   addButtonText: {
-    // color: "#ff0700",
-    color: "black",
+    color: "#ff0700",
+    // color: "black",
     fontSize: 46,
     fontWeight: "900"
   },
